@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-image",
+  "version": "1.0.0",
+  "description": "- using this api to get images [api](https://picsum.photos/) - Game should have a win mechanism  - Game should have a limit turns (saved in redux store) - Game should have a Play again Feature:  ## example : ![alt text](./cardMatch.gif) ## Grid should be 4*4: ![alt text](./download.png) ## Design Rules - Be as Creative as you can having a good UI/UX is important  ## Software rules  ### Project structure",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUHAMMED-YUSUF-ADIYAMAN/nextjs-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MUHAMMED-YUSUF-ADIYAMAN/nextjs-image/issues"
+  },
+  "homepage": "https://github.com/MUHAMMED-YUSUF-ADIYAMAN/nextjs-image#readme"
+}
