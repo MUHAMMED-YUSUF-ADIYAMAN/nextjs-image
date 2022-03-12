@@ -4,12 +4,12 @@
 
 .main {
   min-height: 100vh;
-  padding: 4rem 0;
   flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
 }
 
 .footer {
@@ -107,7 +107,17 @@
   height: 1em;
   margin-left: 0.5rem;
 }
-
+.Cards{
+  
+}
+.cardSize {
+    height: 300px;
+    display: flex;
+    grid-gap: 15px;
+    gap: 15px;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;
